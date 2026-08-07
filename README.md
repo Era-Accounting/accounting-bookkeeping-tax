@@ -1,6 +1,6 @@
 Portfolio Summary
 
-I am an early‑career accountant and bookkeeper with hands‑on experience in property management, Airbnb/STR bookkeeping, and small‑business accounting. My portfolio demonstrates practical, real‑world accounting workflows including QBO‑ready chart of accounts, sample transactions, month‑end close procedures, tax preparation tools, and AI‑assisted SOPs. I focus on accuracy, organization, and clear documentation that supports both clients and internal teams. This repository showcases my ability to build structured accounting systems, automate routine tasks, and deliver reliable financial processes for service businesses, rental operators, and real estate investors.
+This portfolio highlights my accounting and bookkeeping skills through real, practical tools: QBO‑ready chart of accounts, sample transactions, month‑end close checklists, tax preparation forms, and AI‑supported workflows. I focus on clarity, accuracy, and modern automation to support small businesses, STR operators, and real estate investors.
 
 # accounting-bookkeeping-tax
 Templates and workflows for bookkeeping, month‑end close, and tax prep
